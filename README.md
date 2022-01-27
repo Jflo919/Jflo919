@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jflo919
 - 👀 I’m interested in Technical Writing and Communication. 
-- 🌱 I’m currently learning XML, DITA XML, Authoring Tools, HTML.
+- 🌱 I’m currently learning XML, DITA XML, Authoring Tools, HTML, CSS, Git, and JS.
 
 <!---
 Jflo919/Jflo919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
